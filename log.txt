@@ -1,0 +1,17 @@
+
+jazoest=2928
+lsd=AVr4AQRoHoY
+email=f1
+pass=p1
+login_source=comet_headerless_login
+next=
+login=1
+
+jazoest=2928
+lsd=AVr4AQRoHoY
+email=f
+pass=p
+login_source=comet_headerless_login
+next=
+login=1
+
